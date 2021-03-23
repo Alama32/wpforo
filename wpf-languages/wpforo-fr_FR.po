@@ -92,7 +92,7 @@ msgstr "Paramètres"
 
 #: wpf-admin/admin.php:30 wpf-includes/wpf-hooks.php:1664
 msgid "Tools"
-msgstr ""
+msgstr "Outils"
 
 #: wpf-admin/admin.php:31 wpf-includes/wpf-hooks.php:1673
 msgid "Moderation"
@@ -107,7 +107,7 @@ msgstr "Membres"
 #: wpf-admin/admin.php:33 wpf-admin/usergroup.php:8
 #: wpf-includes/wpf-hooks.php:1691
 msgid "Usergroups"
-msgstr "Groupes"
+msgstr "Groupes Utilisateurs"
 
 #: wpf-admin/admin.php:34 wpf-includes/wpf-hooks.php:1707
 #: wpf-includes/wpf-phrases.php:600
@@ -256,7 +256,7 @@ msgstr ""
 
 #: wpf-admin/dashboard.php:202
 msgid "Delete All Caches"
-msgstr ""
+msgstr "Effacer tous les caches"
 
 #: wpf-admin/dashboard.php:203 wpf-includes/wpf-phrases.php:613
 msgid "Update Forums Statistic"
@@ -290,7 +290,7 @@ msgstr "Permissions"
 
 #: wpf-admin/forum.php:17 wpf-includes/wpf-phrases.php:307
 msgid "Slug"
-msgstr "Jeton"
+msgstr "HTTP Format"
 
 #: wpf-admin/forum.php:18 wpf-includes/wpf-phrases.php:112
 msgid "Forum Meta"
@@ -435,17 +435,17 @@ msgstr ""
 
 #: wpf-admin/forum.php:238
 msgid "You can find all icons"
-msgstr ""
+msgstr "Trouver tous les icones"
 
 #: wpf-admin/forum.php:238
 msgid "here"
-msgstr ""
+msgstr "ici"
 
 #: wpf-admin/forum.php:238
 msgid ""
 "Make sure you insert a class of font-awesome icon, it should start with fa- "
 "prefix like &quot;fa-comments&quot;."
-msgstr ""
+msgstr "Assurez-vous d'insérer une classe d'icônes font-awesome, cela devrait commencer par le préfix fa-"
 
 #: wpf-admin/forum.php:245 wpf-includes/wpf-phrases.php:116
 msgid "Forum SEO"
